@@ -1,0 +1,7 @@
+#!/bin/bash
+cd 
+mkdir welcome
+cd /welcome
+mkdir to
+cd /to
+mkdir school
