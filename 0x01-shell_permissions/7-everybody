@@ -1,2 +1,4 @@
 #!/bin/bash
 chmod ugo+rwx
+#!/bin/bash
+ugo
